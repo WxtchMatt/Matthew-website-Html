@@ -30,6 +30,4 @@ By contributing to open source, you're not just writing code—you’re shaping 
 **Footer:**
 &copy; 2025 Matthew Trimble | Open Source Movement 🌱
 
----
 
-You can copy this text into your HTML content, and it will add vibrancy and energy to your website with fun emojis and an engaging message about the open-source movement!
